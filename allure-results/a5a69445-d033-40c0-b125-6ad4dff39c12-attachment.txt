@@ -1,2 +1,0 @@
-200
-{"_id":"69fc0daa4f5105aa3dfecd31","name":"Updated Teacher","email":"nathanchapman@example.org","designation":"Lecturer","teacherId":9666,"department":"CSE"}

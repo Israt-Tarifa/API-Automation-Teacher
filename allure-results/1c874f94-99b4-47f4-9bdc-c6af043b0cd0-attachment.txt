@@ -1,1 +1,0 @@
-CREATE RESPONSE: {'name': 'Danielle Lyons', 'email': 'reneemerritt@example.net', 'designation': 'Lecturer', 'teacherId': 3758, 'department': 'CSE', '_id': '69fc0da54f5105aa3dfecd29'}

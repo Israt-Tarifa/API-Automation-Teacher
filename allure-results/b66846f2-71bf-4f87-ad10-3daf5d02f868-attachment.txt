@@ -1,3 +1,0 @@
-{'username': 'admin', 'password': 'password123'}
-200
-{"authToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNzc4MTI2MjQ2LCJleHAiOjE3NzgyMTI2NDZ9.6MOaeWvtf9hvGHRfX8eKviROnELnqmF1_pD9fZ33CZk"}
