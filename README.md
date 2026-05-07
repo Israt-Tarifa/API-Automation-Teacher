@@ -29,7 +29,7 @@ Visual representation of test severity, duration, and status trends.
 
 ### Category & Suite Breakdown
 Detailed view of test cases organized by their functional categories and suites.
-![Category View](./assets/suites.png)
+![Category View](./assets/suits.png)
 
 ### Execution Timeline
 A visual timeline showing when each test was executed and how long it took.
